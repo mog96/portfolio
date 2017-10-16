@@ -1,4 +1,4 @@
-# Portfolio
+#
 
 ### *I Told You Skateboarding Gets You Nowhere*
 ![skateboarding-gets-you-nowhere](https://github.com/mog96/portfolio/blob/master/Photos/skateboarding-gets-you-nowhere.JPG)
