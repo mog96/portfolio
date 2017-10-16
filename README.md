@@ -1,7 +1,7 @@
 #
-
 ### *Skate Pants*
 2016
+
 ![skate-pants_final-side-close](https://github.com/mog96/portfolio/blob/master/Photos/skate-pants_final-side-close.jpg)
 ![skate-pants_final-front](https://github.com/mog96/portfolio/blob/master/Photos/skate-pants_final-front.jpg)
 ![skate-pants_video-screen-1](https://github.com/mog96/portfolio/blob/master/Photos/skate-pants_video-screen-1.jpg)
@@ -9,7 +9,6 @@
 ![skate-pants_video-screen-3](https://github.com/mog96/portfolio/blob/master/Photos/skate-pants_video-screen-3.jpg)
 
 #
-
 ### *I Told You Skateboarding Gets You Nowhere*
 2016
 ![skateboarding-gets-you-nowhere](https://github.com/mog96/portfolio/blob/master/Photos/skateboarding-gets-you-nowhere.JPG)
