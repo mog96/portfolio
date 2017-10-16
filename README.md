@@ -1,4 +1,11 @@
 #
+### *Painter's Tape Self Portrait*
+2017
+
+![painters-tape-self-portrait](https://github.com/mog96/portfolio/blob/master/Photos/painters-tape-self-portrait.jpg)
+![painters-tape-self-portrait_with-me](https://github.com/mog96/portfolio/blob/master/Photos/painters-tape-self-portrait_with-me.JPG)
+
+#
 ### *Parking Garage Installation*
 2017
 
