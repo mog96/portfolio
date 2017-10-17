@@ -17,6 +17,7 @@
 ### *Painter's Tape Self Portrait*
 2017
 
+![painters-tape-portrait_from-left](https://github.com/mog96/portfolio/blob/master/Photos/painters-tape-portrait_from-left.JPG)
 ![painters-tape-self-portrait](https://github.com/mog96/portfolio/blob/master/Photos/painters-tape-self-portrait.jpg)
 ![painters-tape-self-portrait_with-me](https://github.com/mog96/portfolio/blob/master/Photos/painters-tape-self-portrait_with-me.JPG)
 
