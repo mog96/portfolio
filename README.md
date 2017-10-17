@@ -1,4 +1,10 @@
 #
+### *[Feng Shui: Flow of Energy](https://github.com/mog96/feng-shui)*
+2017
+
+![fs_tetris-3](https://github.com/mog96/portfolio/blob/master/Photos/fs_tetris-3.jpg)
+
+#
 ### *Keep Pushing*
 2017
 
